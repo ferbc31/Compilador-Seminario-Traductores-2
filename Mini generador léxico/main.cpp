@@ -1,3 +1,11 @@
+/*
+Nombre: Benavides Castro Fernando
+Materia: SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II
+Sección: D02
+Calendario: 2023B
+Profesor: MICHEL EMANUEL LOPEZ FRANCO
+*/
+
 #include <iostream>
 #include <string>
 
@@ -34,7 +42,7 @@ namespace Lexico {
         }
     }
 
-    // Funci�n que descompone el texto en tokens
+    // Función que descompone el texto en tokens
     void descomponerTexto(const string& entrada) {
         string token;
         TipoToken tipoActual = NO_DEFINIDO;
