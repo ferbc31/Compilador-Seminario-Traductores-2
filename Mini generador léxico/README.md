@@ -1,4 +1,6 @@
 # MINI GENERADOR LÉXICO
+Fernando Benavides Castro
+
 El programa analiza una cadena de entrada para identificar y clasificar "tokens":
 
 Tipos de Tokens:
