@@ -11,26 +11,15 @@ _Este es mi proyecto de la materia de Seminario de Solución de Problemas de Tra
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
 ```
 Intalar C++ en tu ordenador
 Un compilador de tu preferencia para C++ (se utilizó Visual Studio Code)
 Acceso a internet y Github
 Git instalado desde Visual Studio Code
 ```
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code es un editor de código fuente
 * [Git](https://git-scm.com/) - Git es un software de control de versiones
