@@ -4,6 +4,7 @@ _Benavides Castro Fernando_
 _2023B_
 _Materia SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II_
 _Seccion D02_
+![image](https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/bec0d573-dffd-45a3-ab8d-c94c8760f293)
 
 _Este es mi proyecto de la materia de Seminario de Solución de Problemas de Traductores de Lenguaje 2 que se conforma por: Etapas de su proyecto terminado: Analizador léxico, Analizador sintáctico yAnalizador semántico_
 
