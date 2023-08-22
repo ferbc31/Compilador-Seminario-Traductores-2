@@ -30,3 +30,4 @@ clasificar \"tokens\":
     procede a descomponerla y mostrar los tokens identificados. Tokens
     inesperados o que no se ajusten a las categorías principales se
     etiquetan y se muestran como \"NoValido\".
+<img width="439" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/13c6617e-4887-426e-acd7-322e53250931">
