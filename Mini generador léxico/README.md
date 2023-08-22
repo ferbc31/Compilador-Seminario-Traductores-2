@@ -1,5 +1,5 @@
 # MINI GENERADOR LÉXICO
-Fernando Benavides Castro
+Benavides Castro Fernando 2023B Materia SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II Seccion D02
 
 El programa analiza una cadena de entrada para identificar y clasificar "tokens":
 
