@@ -21,4 +21,4 @@ Tipos de Tokens:
 Una vez identificado un token, mostrarToken imprime el token con su respectiva clasificación.
 
 
-En la función **main**, se proporciona una cadena de prueba y se procede a descomponerla y mostrar los tokens identificados. Tokens inesperados o que no se ajusten a las categorías principales se etiquetan y se muestran como "NoValido"._
+En la función **main**, se proporciona una cadena de prueba y se procede a descomponerla y mostrar los tokens identificados. Tokens inesperados o que no se ajusten a las categorías principales se etiquetan y se muestran como "NoValido".
