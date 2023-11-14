@@ -1,6 +1,3 @@
-¡Por supuesto! Aquí está el texto formateado en Markdown (.md):
-
-```markdown
 # Etapa de Análisis Semántico 🕵️‍♂️💡
 
 ¡Bienvenido a la fascinante etapa de Análisis Semántico! 🚀 En este punto del proceso, nos sumergimos en las profundidades del significado detrás del código fuente, explorando las conexiones y relaciones entre los elementos del lenguaje de programación. 🧩💻
