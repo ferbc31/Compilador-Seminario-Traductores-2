@@ -1,10 +1,38 @@
+# Compilador-Seminario-Traductores-2 2023B
+
+_Benavides Castro Fernando_
+_2023B_
+_Materia SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II_
+_Seccion D02_
+
+_Este es mi proyecto de la materia de Seminario de Solución de Problemas de Traductores de Lenguaje 2 que se conforma por: Analizador léxico, Analizador sintáctico, Analizador semántico y Generación de Código_
+
+## Comenzando 🚀
+
+_Estas instrucciones te ayudan a obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+### Pre-requisitos 📋
+```
+Intalar Python en tu ordenador
+Un compilador de tu preferencia para Python (se utilizó Visual Studio Code)
+Acceso a internet y Github
+```
+
+## Construido con 🛠️
+
+* [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code es un editor de código fuente
+* [GitHub]([https://rometools.github.io/rome/](https://github.com/)) - GitHub nos ayuda para alojar proyectos, en este caso donde se almacena este proyecto de compilador.
+
+## Autor ✒️
+
+* **Fernando Benavides Castro** - *Desarrollador del programa completo, archivos adicionales y documentación* - [ferbc31](https://github.com/ferbc31)
 #Proyecto: Compilador con Interfaz Gráfica (Analizador léxico, sintáctico, semántico y generación de código) ✨
 
 Este proyecto implementa un analizador léxico con una interfaz gráfica desarrollada con PyQt5. El analizador puede reconocer identificadores, operadores, constantes y otros elementos presentes en una cadena de entrada.
 
 ## Funcionalidades 🚀
 
-- **Interfaz Gráfica Atractiva:** La aplicación cuenta con una interfaz gráfica intuitiva y fácil de usar. Incluye campos de texto, una tabla para mostrar resultados y un botón para iniciar el análisis.
+- **Interfaz Gráfica:** La aplicación cuenta con una interfaz gráfica fácil de usar. Incluye campos de texto, una tabla para mostrar resultados y un botón para iniciar el análisis.
 
 - **Análisis Léxico:** El analizador léxico puede procesar cadenas de texto ingresadas y reconocer diferentes elementos léxicos, asignándoles identificadores, tokens y lexemas.
 
@@ -48,3 +76,11 @@ pip install PyQt5
 ## Contribuciones y Problemas Conocidos 🤝
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar el programa, no dudes en abrir un problema o enviar una solicitud para editar.
+
+## Expresiones de Gratitud 🎁
+
+* A todos los que vean estre proyecto se les agradece su tiempo 📢
+* Gracias por apreciar este trabajo 🤓.
+
+__
+⌨️ con ❤️ por [ferbc31](https://github.com/ferbc31) 😊
