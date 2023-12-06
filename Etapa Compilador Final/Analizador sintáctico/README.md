@@ -12,7 +12,7 @@ El analizador léxico se encarga de reconocer y clasificar los elementos present
    - Inicializa variables y prepara la cadena de entrada para el análisis.
    - Utiliza un bucle para recorrer la cadena e identificar tokens como identificadores, operadores, constantes, etc.
    - Almacena la información de cada elemento (lexema, token, id) en una lista llamada `elementos`.
-   - Lee matrices y reglas desde archivos externos (`table.txt` y `rules.txt`).
+   - Lee matrices y reglas desde archivos externos (`tabla.txt` y `reglas.txt`).
    - Utiliza estas matrices y reglas para realizar un análisis sintáctico y determinar si la cadena es válida.
    - Muestra los resultados en la tabla de la interfaz gráfica.
 
