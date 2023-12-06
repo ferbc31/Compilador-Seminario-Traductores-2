@@ -3,7 +3,7 @@
 Este proyecto implementa un analizador sintáctico con interfaz gráfica utilizando la biblioteca PyQt5 en Python. El analizador sintáctico verifica la validez de expresiones ingresadas y muestra los resultados en una tabla.
 
 ## Requisitos Previos
-Asegúrate de tener Python instalado en tu ordenador. Además, se requiere la instalación de la biblioteca PyQt5. Puedes instalarla ejecutando el siguiente comando:
+Asegúrate de tener Python instalado en tu computadora. Además, se requiere la instalación de la biblioteca PyQt5. Puedes instalarla ejecutando el siguiente comando:
 
 ```bash
 pip install PyQt5
@@ -39,6 +39,7 @@ class Ui_MainWindow(object):
 Al hacer clic en el botón "Enter", se activa la función `analizador`, que realiza la verificación sintáctica de la expresión ingresada. El código del analizador sintáctico está diseñado para reconocer elementos como identificadores, operadores y constantes.
 
 El análisis sintáctico utiliza una tabla y reglas predefinidas para determinar si la expresión es válida. Los resultados se muestran en la tabla de la interfaz gráfica.
+<img width="345" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/c168fa86-948c-4885-b114-ab08911838b7">
 
 ## Cómo Ejecutar el Proyecto
 1. Asegúrate de tener Python instalado.
@@ -48,8 +49,3 @@ El análisis sintáctico utiliza una tabla y reglas predefinidas para determinar
 ```bash
 python nombre_del_script.py
 ```
-
-## Contribuciones
-Este proyecto es un trabajo en curso, y las contribuciones son bienvenidas. Si encuentras mejoras o deseas agregar funcionalidades, ¡no dudes en colaborar!
-
-Esperamos que este proyecto te resulte útil y educativo. ¡Disfruta analizando sintácticamente tus expresiones! 😊
