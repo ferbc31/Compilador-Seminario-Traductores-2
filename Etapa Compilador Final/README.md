@@ -1,4 +1,4 @@
-# Analizador Léxico con Interfaz Gráfica ✨
+#Proyecto: Compilador con Interfaz Gráfica (Analizador léxico, sintáctico, semántico y generación de código) ✨
 
 Este proyecto implementa un analizador léxico con una interfaz gráfica desarrollada con PyQt5. El analizador puede reconocer identificadores, operadores, constantes y otros elementos presentes en una cadena de entrada.
 
@@ -20,7 +20,22 @@ Este proyecto implementa un analizador léxico con una interfaz gráfica desarro
 
 ## Capturas de Pantalla 📸
 
-_Inserta imágenes aquí para mostrar cómo se ve tu programa en acción. Puedes agregar capturas de pantalla de la interfaz gráfica y resultados obtenidos._
+_Aqui se puede apreciar el programa en acción:_
+
+<img width="346" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/b111cecd-93d9-4f30-b53a-d4b3cae19d8f">
+
+<img width="294" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/ab95884a-b60c-4aa2-ae9a-2283a937a149">
+
+_Aqui se puede ver el contenido de los archivos de texto utilizados:_
+
+1.tabla.txt (se muestra una cantidad de todo el archivo, puedes verlo completo aqui: https://github.com/ferbc31/Compilador-Seminario-Traductores-2/blob/main/Etapa%20Compilador%20Final/Analizador%20L%C3%A9xico/tabla.txt): 
+<img width="741" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/5f1c3a14-22dc-4e02-8ab4-a46edbe2cadb">
+
+2.reglas.txt: 
+<img width="79" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/d725c4d7-8d1b-4dbf-8e8c-d2cdf8a935f8">
+
+3.reglas_texto.txt: 
+<img width="308" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/de1230e1-d1fe-4315-b184-44e5e36f978c">
 
 ## Requisitos y Configuración 💻
 
@@ -32,12 +47,4 @@ pip install PyQt5
 
 ## Contribuciones y Problemas Conocidos 🤝
 
-¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar el programa, no dudes en abrir un problema o enviar una solicitud de extracción.
-
-## Licencia 📜
-
-Este proyecto está bajo la [Licencia MIT](LICENSE) - consulta el archivo `LICENSE` para obtener más detalles.
-
----
-
-¡Espero que disfrutes explorando el analizador léxico con interfaz gráfica! Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme. 😊
+¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar el programa, no dudes en abrir un problema o enviar una solicitud para editar.
