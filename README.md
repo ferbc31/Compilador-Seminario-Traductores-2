@@ -5,11 +5,11 @@ _2023B_
 _Materia SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II_
 _Seccion D02_
 
-_Este es mi proyecto de la materia de Seminario de Solución de Problemas de Traductores de Lenguaje 2 que se conforma por: Etapas de su proyecto terminado: Analizador léxico, Analizador sintáctico, Analizador semántico y Generación de Código_
+_Este es mi proyecto de la materia de Seminario de Solución de Problemas de Traductores de Lenguaje 2 que se conforma por: Analizador léxico, Analizador sintáctico, Analizador semántico y Generación de Código_
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Estas instrucciones te ayudan a obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ### Pre-requisitos 📋
 ```
@@ -32,7 +32,7 @@ Este proyecto implementa un analizador léxico con una interfaz gráfica desarro
 
 ## Funcionalidades 🚀
 
-- **Interfaz Gráfica Atractiva:** La aplicación cuenta con una interfaz gráfica intuitiva y fácil de usar. Incluye campos de texto, una tabla para mostrar resultados y un botón para iniciar el análisis.
+- **Interfaz Gráfica:** La aplicación cuenta con una interfaz gráfica fácil de usar. Incluye campos de texto, una tabla para mostrar resultados y un botón para iniciar el análisis.
 
 - **Análisis Léxico:** El analizador léxico puede procesar cadenas de texto ingresadas y reconocer diferentes elementos léxicos, asignándoles identificadores, tokens y lexemas.
 
