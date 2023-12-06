@@ -1,32 +1,52 @@
-## Analizador Léxico 
+# Analizador Sintáctico con Interfaz Gráfica en PyQt5
 
-El analizador léxico se encarga de reconocer y clasificar los elementos presentes en una cadena de entrada. En este caso, la cadena de entrada es proporcionada a través de una interfaz gráfica construida con PyQt5. 🖥️
+Este proyecto implementa un analizador sintáctico con interfaz gráfica utilizando la biblioteca PyQt5 en Python. El analizador sintáctico verifica la validez de expresiones ingresadas y muestra los resultados en una tabla.
 
-### Funcionamiento ⚙️
+## Requisitos Previos
+Asegúrate de tener Python instalado en tu computadora. Además, se requiere la instalación de la biblioteca PyQt5. Puedes instalarla ejecutando el siguiente comando:
 
-1. **Interfaz Gráfica:** La interfaz gráfica se compone de una ventana principal (`MainWindow`) que incluye elementos como campos de texto, botones y una tabla para mostrar los resultados. 📊
+```bash
+pip install PyQt5
+```
 
-2. **Código del Analizador Léxico:** La función `analizador` se ejecuta al hacer clic en el botón "Enter". Esta función realiza los siguientes pasos:
+## Interfaz Gráfica
+La interfaz gráfica se crea con PyQt5 y consta de una ventana principal que incluye:
 
-   - Lee el texto ingresado en el campo de texto (`textEdit`).
-   - Inicializa variables y prepara la cadena de entrada para el análisis.
-   - Utiliza un bucle para recorrer la cadena e identificar tokens como identificadores, operadores, constantes, etc.
-   - Almacena la información de cada elemento (lexema, token, id) en una lista llamada `elementos`.
-   - Lee matrices y reglas desde archivos externos (`tabla.txt` y `reglas.txt`).
-   - Utiliza estas matrices y reglas para realizar un análisis sintáctico y determinar si la cadena es válida.
-   - Muestra los resultados en la tabla de la interfaz gráfica.
+- Un campo de texto (`QTextEdit`) para ingresar la expresión.
+- Un botón (`QPushButton`) para ejecutar el analizador.
+- Una tabla (`QTableWidget`) para mostrar los resultados.
 
-3. **Resultados en la Tabla:** Los resultados del análisis léxico se presentan en la tabla de la interfaz gráfica. Cada fila de la tabla representa un elemento encontrado en la cadena, con columnas para el id, lexema y token correspondientes. 📑
-<img width="348" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/ebb6e202-5a99-480a-ad88-8cc5daf1fced">
+La ventana se inicializa con la función `setupUi`, donde se definen los elementos y su disposición en la interfaz.
 
-4. **Análisis Sintáctico:** Si la cadena es válida desde el punto de vista léxico, el código realiza un análisis sintáctico adicional. Se detectan expresiones entre paréntesis, se crea un árbol de expresiones y se muestra en la consola la estructura de la expresión. 🌳
-<img width="311" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/1d34f138-b92f-4889-96bd-81bfd3f1c1ff">
+```python
+# ...
 
+class Ui_MainWindow(object):
+    def setupUi(self, MainWindow):
+        # Configuración de la interfaz gráfica
+        # ...
 
-### Explicación Adicional 🗒️
+    def retranslateUi(self, MainWindow):
+        # Traducciones de la interfaz gráfica
+        # ...
 
-- **Expresiones Entre Paréntesis:** El código identifica expresiones entre paréntesis y las reemplaza por letras mayúsculas en la cadena original. Luego, realiza un análisis sintáctico de estas expresiones.
+    def analizador(self):
+        # Lógica del analizador sintáctico
+        # ...
+```
 
-- **Árbol de Expresiones:** Se construye un árbol de expresiones que representa la estructura jerárquica de la cadena analizada. El árbol se muestra en la consola con información sobre los signos y las subexpresiones. 🌐
- 
-El código incluye comentarios que proporcionan detalles adicionales sobre el proceso de análisis léxico y sintáctico. 📝
+## Funcionamiento del Analizador Sintáctico
+Al hacer clic en el botón "Enter", se activa la función `analizador`, que realiza la verificación sintáctica de la expresión ingresada. El código del analizador sintáctico está diseñado para reconocer elementos como identificadores, operadores y constantes.
+
+El análisis sintáctico utiliza una tabla y reglas predefinidas para determinar si la expresión es válida. Los resultados se muestran en la tabla de la interfaz gráfica.
+
+<img width="345" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/c168fa86-948c-4885-b114-ab08911838b7">
+
+## Cómo Ejecutar el Proyecto
+1. Asegúrate de tener Python instalado.
+2. Instala PyQt5 utilizando `pip install PyQt5`.
+3. Ejecuta el script con el código proporcionado.
+
+```bash
+python nombre_del_script.py
+```
