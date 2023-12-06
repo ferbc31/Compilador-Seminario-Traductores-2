@@ -17,9 +17,11 @@ El analizador léxico se encarga de reconocer y clasificar los elementos present
    - Muestra los resultados en la tabla de la interfaz gráfica.
 
 3. **Resultados en la Tabla:** Los resultados del análisis léxico se presentan en la tabla de la interfaz gráfica. Cada fila de la tabla representa un elemento encontrado en la cadena, con columnas para el id, lexema y token correspondientes. 📑
-<img width="351" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/1051b508-cc57-48b0-9232-2d8a2f525f35">
+<img width="348" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/ebb6e202-5a99-480a-ad88-8cc5daf1fced">
 
 4. **Análisis Sintáctico:** Si la cadena es válida desde el punto de vista léxico, el código realiza un análisis sintáctico adicional. Se detectan expresiones entre paréntesis, se crea un árbol de expresiones y se muestra en la consola la estructura de la expresión. 🌳
+<img width="311" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/1d34f138-b92f-4889-96bd-81bfd3f1c1ff">
+
 
 ### Explicación Adicional 🗒️
 
