@@ -168,7 +168,7 @@ class Ui_MainWindow(object):
                 
             
             
-        with open('table.txt', 'r') as file:
+        with open('tabla.txt', 'r') as file:
             doc = file.read()
 
         filas = doc.splitlines()
@@ -178,7 +178,7 @@ class Ui_MainWindow(object):
             fila_numeros = [int(num) for num in ele]
             matriz.append(fila_numeros)
         
-        with open('rules.txt', 'r') as file:
+        with open('reglas.txt', 'r') as file:
             doc = file.read()
 
         filas = doc.splitlines()
