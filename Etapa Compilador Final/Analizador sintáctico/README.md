@@ -51,4 +51,6 @@ Al hacer clic en el botón "Enter", se activa la función `analizador`, que real
 El análisis sintáctico utiliza una tabla y reglas predefinidas para determinar si la expresión es válida. Los resultados se muestran en la tabla de la interfaz gráfica.
 
 <img width="345" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/c168fa86-948c-4885-b114-ab08911838b7">
+<img width="223" alt="image" src="https://github.com/ferbc31/Compilador-Seminario-Traductores-2/assets/125149035/a4e0d25f-b1f2-4fa6-b3a8-9a0ad3b37213">
+
 
