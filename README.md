@@ -5,7 +5,7 @@ _2023B_
 _Materia SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II_
 _Seccion D02_
 
-_Este es mi proyecto de la materia de Seminario de Solución de Problemas de Traductores de Lenguaje 2 que se conforma por: Etapas de su proyecto terminado: Analizador léxico, Analizador sintáctico yAnalizador semántico_
+_Este es mi proyecto de la materia de Seminario de Solución de Problemas de Traductores de Lenguaje 2 que se conforma por: Etapas de su proyecto terminado: Analizador léxico, Analizador sintáctico, Analizador semántico y Generación de Código_
 
 ## Comenzando 🚀
 
