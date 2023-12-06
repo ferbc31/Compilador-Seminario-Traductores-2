@@ -1,4 +1,4 @@
-# Compilador-Seminario-Traductores-2
+# Compilador-Seminario-Traductores-2 2023B
 
 _Benavides Castro Fernando_
 _2023B_
