@@ -1,4 +1,4 @@
-## Analizador Léxico 🧐
+## Analizador Léxico 
 
 El analizador léxico se encarga de reconocer y clasificar los elementos presentes en una cadena de entrada. En este caso, la cadena de entrada es proporcionada a través de una interfaz gráfica construida con PyQt5. 🖥️
 
