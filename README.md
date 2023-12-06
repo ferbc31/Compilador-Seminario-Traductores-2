@@ -13,21 +13,19 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 ```
-Intalar C++ en tu ordenador
-Un compilador de tu preferencia para C++ (se utilizó Visual Studio Code)
+Intalar Python en tu ordenador
+Un compilador de tu preferencia para Python (se utilizó Visual Studio Code)
 Acceso a internet y Github
-Git instalado desde Visual Studio Code
 ```
 
 ## Construido con 🛠️
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code es un editor de código fuente
-* [Git](https://git-scm.com/) - Git es un software de control de versiones
-* [GitHub]([https://rometools.github.io/rome/](https://github.com/)) - GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git.
+* [GitHub]([https://rometools.github.io/rome/](https://github.com/)) - GitHub nos ayuda para alojar proyectos, en este caso donde se almacena este proyecto de compilador.
 
 ## Autores ✒️
 
-* **Fernando Benavides Castro** - *Desarrollador del programa completo, archivos adicionales y documentación* - [ferbc31](https://github.com/villanuevand)
+* **Fernando Benavides Castro** - *Desarrollador del programa completo, archivos adicionales y documentación* - [ferbc31](https://github.com/ferbc31)
 
 ## Expresiones de Gratitud 🎁
 
