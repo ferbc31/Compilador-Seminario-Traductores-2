@@ -28,5 +28,5 @@ El analizador léxico se encarga de reconocer y clasificar los elementos present
 - **Expresiones Entre Paréntesis:** El código identifica expresiones entre paréntesis y las reemplaza por letras mayúsculas en la cadena original. Luego, realiza un análisis sintáctico de estas expresiones.
 
 - **Árbol de Expresiones:** Se construye un árbol de expresiones que representa la estructura jerárquica de la cadena analizada. El árbol se muestra en la consola con información sobre los signos y las subexpresiones. 🌐
-
+ 
 El código incluye comentarios que proporcionan detalles adicionales sobre el proceso de análisis léxico y sintáctico. 📝
